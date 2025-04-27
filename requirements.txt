@@ -1,0 +1,11 @@
+# Core libraries
+gradio
+google-generativeai
+torch
+numpy
+scikit-image
+Pillow
+matplotlib
+IPython
+
+# argparse # Built-in for Python 3.2+, kept for compatibility if needed by older setup

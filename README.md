@@ -1,4 +1,3 @@
-# GROUP-AI-HISTORIC-CHATBOT
 # Interactive Historian: Colorize & Chat
 
 This project provides a Gradio web application that allows users to:
