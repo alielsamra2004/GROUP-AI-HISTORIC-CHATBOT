@@ -48,8 +48,8 @@ This project provides a Gradio web application that allows users to:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository_url> # Replace <repository_url> with the actual URL
-    cd GROUP-AI # Or your project directory name
+    git clone <https://github.com/alielsamra2004/GROUP-AI-HISTORIC-CHATBOT/tree/main>
+    cd GROUP-AI-HISTORIC-CHATBOT# Or your project directory name
     ```
 
 2.  **Create and Activate a Virtual Environment:** (Recommended)
