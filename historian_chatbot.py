@@ -26,7 +26,7 @@ if 'siggraph17' not in locals(): siggraph17 = None
 if 'util' not in locals(): util = None
 
 # --- Configuration ---
-API_KEY = "AIzaSyAtA_a0yFyB6he2EtHyl2fad_8slktf4aw" # Replace with your key or use env vars
+API_KEY = "" # Replace with your key or use env vars
 
 # --- Initialize APIs and Models ---
 # Gemini API
